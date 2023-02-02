@@ -1,10 +1,13 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  color:#7c7c7c;
+  background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm283-nunny-528_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=7492599046c65d940566542732b0ac62url);
+  background-size: cover;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+mark {
+  background-color: #6a00ff;
+  color: #bdbdfa;
 }
 
 code {
@@ -17,22 +20,22 @@ table {
 }
 
 td, th {
-  border: 1px solid #ddd;
+  border: 1px solid #6a00ff;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #6a00ff;
 }
 
 tr:hover {
-  background-color: #ddd;
+  background-color: #bdbdfa;
 }
 
 th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #723d46;
-  color: white;
+  background-color: #6a00ff;
+  color: #bdbdfa;
 }
