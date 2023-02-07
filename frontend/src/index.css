@@ -2,18 +2,16 @@ body {
   color:#7c7c7c;
   background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm283-nunny-528_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=7492599046c65d940566542732b0ac62url);
   background-size: cover;
+  font-family: cursive;
+  margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-mark {
+mark{
   background-color: #6a00ff;
   color: #bdbdfa;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
 
 table {
   width: 100%;
